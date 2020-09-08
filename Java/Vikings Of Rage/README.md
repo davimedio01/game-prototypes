@@ -28,10 +28,10 @@ WASD - Andar<br/>
 J - Atacar
 
 # Imagens do Jogo<br/>
-<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/01.png" width="800" height="600">
-<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/02.png" width="800" height="600">
-<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/03.png" width="800" height="600">
-<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/04.png" width="800" height="600">
+<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/01.png" width="600" height="800">
+<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/02.png" width="600" height="800">
+<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/03.png" width="600" height="800">
+<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/04.png" width="600" height="800">
 
 # Observações<br/>
 
