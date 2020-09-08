@@ -1,2 +1,2 @@
 # Games
-Contém jogos realizados por mim e/ou por equipes.
+Contém jogos realizados por mim, individualmente ou em grupo.
