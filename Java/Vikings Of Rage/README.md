@@ -27,6 +27,8 @@ Jogue com o teclado.<br/><br/>
 WASD - Andar<br/>
 J - Atacar
 
+# Imagens do Jogo <br/>
+
 # Equipe de Desenvolvimento<br/>
 Davi Augusto Neves Leite<br/>
 Luis Henrique Morelli - [GitHub](https://github.com/Xilsu)
