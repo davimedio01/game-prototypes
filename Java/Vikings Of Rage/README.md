@@ -34,6 +34,9 @@ J - Atacar
 <img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/04.png" width="800" height="500">
 
 # Observações<br/>
+A pasta Client_Single Player_Test contém a fase beta e singleplayer. Nela, é possível testar as mecânicas de ataque e movimentação do jogo multiplayer.<br/>
+Para testar, basta compilar o arquivo "Game.java" na linha de comando, utilizando o javac. Ou seja: javac Game.java.<br/>
+Após isso, basta executar utilizando "java Game".<br/>
 
 # Equipe de Desenvolvimento<br/>
 Davi Augusto Neves Leite<br/>
