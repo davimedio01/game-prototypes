@@ -1,6 +1,6 @@
 # PONG V1.0
 
-Jogo local do famoso Pong, codificado em Java.<br/>
+Jogo single-player do famoso Pong, codificado em Java.<br/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
