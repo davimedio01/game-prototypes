@@ -19,4 +19,4 @@ W ou Seta para Cima - Mover para Cima.<br/>
 S ou Seta para Baixo - Mover para Baixo.
 
 # Equipe de Desenvolvimento<br/>
-Davi Augusto Neves Leite<br/>
+[Davi Augusto Neves Leite](https://github.com/davimedio01)<br/>
