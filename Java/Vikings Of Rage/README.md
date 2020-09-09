@@ -39,5 +39,5 @@ Para testar, basta compilar o arquivo "Game.java" na linha de comando, utilizand
 Após isso, basta executar utilizando "java Game".<br/>
 
 # Equipe de Desenvolvimento<br/>
-Davi Augusto Neves Leite<br/>
-Luis Henrique Morelli - [GitHub](https://github.com/Xilsu)
+[Davi Augusto Neves Leite](https://github.com/davimedio01)<br/>
+[Luis Henrique Morelli](https://github.com/Xilsu)
