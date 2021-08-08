@@ -26,7 +26,7 @@
   <h3 align="center">project_title</h3>
   -->
 
-  <p align="center">A repository to store the most diverse games made in groups or just by me</p>
+  <p align="center">A repository to store the most diverse prototype of games made in a group or just by me</p>
 </p>
 
 
