@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/davimedio01/games">
+  <a href="https://github.com/davimedio01/game-prototypes">
     <img src="/logo.png" alt="Logo" >
   </a>
 
@@ -26,7 +26,7 @@
   <h3 align="center">project_title</h3>
   -->
 
-  <p align="center">A repository to store the most diverse prototype of games made in a group or just by me</p>
+  <p align="center">A repository to store the most diverse game prototypes made in a group or just by me</p>
 </p>
 
 
@@ -78,15 +78,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/davimedio01/games.svg?style=for-the-badge
-[contributors-url]: https://github.com/davimedio01/games/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/davimedio01/games.svg?style=for-the-badge
-[forks-url]: https://github.com/davimedio01/games/network/members
-[stars-shield]: https://img.shields.io/github/stars/davimedio01/games.svg?style=for-the-badge
-[stars-url]: https://github.com/davimedio01/games/stargazers
-[issues-shield]: https://img.shields.io/github/issues/davimedio01/games.svg?style=for-the-badge
-[issues-url]: https://github.com/davimedio01/games/issues
-[license-shield]: https://img.shields.io/github/license/davimedio01/games.svg?style=for-the-badge
-[license-url]: https://github.com/davimedio01/games/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/davimedio01/game-prototypes.svg?style=for-the-badge
+[contributors-url]: https://github.com/davimedio01/game-prototypes/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/davimedio01/game-prototypes.svg?style=for-the-badge
+[forks-url]: https://github.com/davimedio01/game-prototypes/network/members
+[stars-shield]: https://img.shields.io/github/stars/davimedio01/game-prototypes.svg?style=for-the-badge
+[stars-url]: https://github.com/davimedio01/game-prototypes/stargazers
+[issues-shield]: https://img.shields.io/github/issues/davimedio01/game-prototypes.svg?style=for-the-badge
+[issues-url]: https://github.com/davimedio01/game-prototypes/issues
+[license-shield]: https://img.shields.io/github/license/davimedio01/game-prototypes.svg?style=for-the-badge
+[license-url]: https://github.com/davimedio01/game-prototypes/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/davi-augusto
